@@ -10,6 +10,7 @@ Languages:Russian/English
  💼 Studying a little bit :trollface:
 ##  💰 Main work:
  👾 Codding on Python/Java Script/C++.C#/Unity/Assembly32/Assemly64/Kotlin
+ 
 :squirrel: FreeLance
 
 ## If you want to contact with me about creating a special project for you 😏 :
