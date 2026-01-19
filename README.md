@@ -1,10 +1,18 @@
 ## Greetings to all visitors of my page.
 
+
+
+
+<img width="498" height="322" alt="image" src="https://github.com/user-attachments/assets/87679cc7-55ec-4eda-b275-0a47f9e063ab" />
+
+
+
+
+
+
 My name is Demyan
 
 Languages:Russian/English
-
-<img width="640" height="322" alt="image" src="https://github.com/user-attachments/assets/a0eacb1e-f62a-4cb1-9567-2c1d6e2faf35" />
 
 
 ##  💻 Im an cyber security specialist and CEO of 2 global self codded projects named as Shadow Fight 2 Rating Hack and Google auth avoid system in this project
