@@ -3,8 +3,7 @@
 
 
 
-<img width="498" height="322" alt="image" src="https://github.com/user-attachments/assets/87679cc7-55ec-4eda-b275-0a47f9e063ab" />
-
+![Uploading mr-robot-happy.gif…]()
 
 
 
